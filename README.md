@@ -45,6 +45,6 @@ Founder, Chief Executive Officer & Chief Techartistry Officer, IglooNation Tech�
 - 🧊 IglooNation Tech™: [www.igloonationtech.com](https://www.igloonationtech.com)
 - 🌐 Portfolio: [jasminelewis.tech](https://jasminelewis.tech/)  
 - 💼 LinkedIn: [linkedin.com/in/jasmine-m-lewis](https://www.linkedin.com/in/jasmine-m-lewis/)  
-- ✍🏽 Medium: [@JasmineMLewis](https://medium.com/@JasmineMLewis)  
+- ✍🏽 Medium: [medium.com/@JasmineMLewis](https://medium.com/@JasmineMLewis)  
 - 💡 Dev Community: [dev.to/jasminemlewis](https://dev.to/jasminemlewis)  
 - 📧 Email: [jasmine.lewis@artistikrebellion.us](mailto:jasmine.lewis@artistikrebellion.us)
