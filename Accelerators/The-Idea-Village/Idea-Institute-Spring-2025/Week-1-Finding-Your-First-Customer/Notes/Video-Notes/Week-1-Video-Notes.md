@@ -1,8 +1,6 @@
-# IDEAinstitute | Spring 2025 | Weekly Video Notes
+# IDEAinstitute | Spring 2025 | Week 1: Finding Your First Customer | Video Notes
 
 ---
-
-> ⚠️ PowerPoint Slides Customer Profile Content
 
 # 💼 Customer Segment
 By picking one customer segment and really understanding that customer, you increase your chances of being able to wow that customer. It helps you stand out in a crowded field of potential competitors.
@@ -104,7 +102,6 @@ The Solution "Tetbook" ->
 There is no right answer. Each require a different strategy when approaching and need of products and services that you might need to produce to "wow" and satisfy.
 Do your best to select a customer that will lead you to other potentially great markets. 
 
-> ⚠️ Quotes and Insights
 
 # 📝 Quotes and Insights from The Idea Village Entrepreneurs 
 ## Neal Shulman, CEO and Founder - Brewsy
@@ -140,8 +137,6 @@ Sometimes price constraints and ethical choices may guide the selection of the f
 ### Idea Village Blurb
 When your customers are talking about your product to other people.
 
-> ⚠️ Today's Takeaways
-
 # 🎯 Today's Takeaways
 ## 01
 Many startups fail because they don't spend enough time identifying and enriching their knowledge of a specific customer segment that urgently needs their solution. Many fail because they do not step into their customer shoes. The better developed your **Customer Persona** is beyond demographics and psychographics to really understanding behavior, the better off you will be.
@@ -151,10 +146,3 @@ A rich, nuanced **Beachhead Customer Persona** will allow you to make better res
 
 ## 03
 Markets are often structured in unique ways. Think about identifying end users, economic buyers, and decision makers - they may not be the same person! So, consider your end user and who will be using your product, who is going to be making the purchasing decisions about that product, and who is the actual decision maker about whether that product or service will be used or not.
-
-> ⚠️ Jasmine M. Lewis' Key Takeaways
-
-# 🗨️ Jasmine M. Lewis' Key Takeaways
-- Think carefully of who this customer might be and wowed by your solution.
-- You win if you have nuances. Nuances are useful it helps you in understanding how the customer make decisions or if it helps you in making your own resources allocation decision.
-

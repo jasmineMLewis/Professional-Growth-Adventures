@@ -1,8 +1,6 @@
-# IDEAinstitute | Spring 2025 | Weekly Class Notes
+# IDEAinstitute | Spring 2025 | Week 1: Class Notes
 
 ---
-
-> ⚠️ Lightspeed Venture Exercise
 
 # 🗂️ Lightspeed Venture Exercise
 ## Elevator Pitch Time
@@ -32,8 +30,6 @@ We help people find their significant other by matching how much they are willin
 ## Revenue
 Customer pay for the date upfront on our app and we take a minimal fee
 
-
-> ⚠️ Customer Centric
 
 # 🧑‍💼 Customer Centric
 ## General
@@ -68,8 +64,6 @@ Customer pay for the date upfront on our app and we take a minimal fee
 - Are the individual you interviewing talking about the problem in the same way I am?
 
 
-> ⚠️ Interviews
-
 # 📢 Interviews
 ## One-on-One Customers
 - Have Customer One-on-Ones
@@ -88,8 +82,6 @@ Customer pay for the date upfront on our app and we take a minimal fee
 - Do not use Surveys initially.
 - Are they answering my emails?
 
-
-> ⚠️ Value Proposition
 
 # ⚖️ Value Proposition
 Focus on the problem.
