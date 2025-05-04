@@ -1,6 +1,7 @@
 # IDEAinstitute | Spring 2025 | Week 1: Finding Your First Customer | Video Notes
 
----
+# 🔗 Vimeo Video Link
+- [Watch the Week 1: Finding Your First Customer Video](https://vimeo.com/819624630/b21443fd11)
 
 # 💼 Customer Segment
 By picking one customer segment and really understanding that customer, you increase your chances of being able to wow that customer. It helps you stand out in a crowded field of potential competitors.
