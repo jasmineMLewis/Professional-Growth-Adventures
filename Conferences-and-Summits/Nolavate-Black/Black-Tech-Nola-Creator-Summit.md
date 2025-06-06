@@ -1,1 +1,1 @@
-# NOLAvate Black
+# NOLAvate Black | Black Tech NOLA: Creator Summit (11/4/2024)
