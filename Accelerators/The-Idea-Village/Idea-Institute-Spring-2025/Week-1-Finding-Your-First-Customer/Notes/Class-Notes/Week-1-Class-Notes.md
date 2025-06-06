@@ -1,6 +1,5 @@
 # IDEAinstitute | Spring 2025 | Week 1: Class Notes
 
----
 
 # 🗂️ Lightspeed Venture Exercise
 ## Elevator Pitch Time
