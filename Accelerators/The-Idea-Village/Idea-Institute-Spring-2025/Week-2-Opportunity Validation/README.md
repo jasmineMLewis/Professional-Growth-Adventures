@@ -1,7 +1,5 @@
 # The Idea Village | IDEAinstitute | Spring 2025 Accelerator Program | Week 2: Opportunity Validation
 
----
-
 # 🧠 Weekly Learning Theme
 ## 📚 Session Overview (Written Context on LMS)
 > Welcome to the second week of IDEAinstitute: Launching the Lean Startup! This week we are going to put the opportunity hypotheses you've been crafting - regarding your job-to-be-done and the persona for whom it is urgent - to the test. This is the first "get out of the building" module! That is, you'll actually have to talk to human beings who you think match your persona profile about their problems. If you can swing it, you might also want to talk to some domain experts about the problem you are thinking of tackling. 
@@ -12,9 +10,7 @@ Below is the video for this week's corresponding chapter in Entrepreneurship in 
 
 
 # 📂 Folders
-- Homework/
 - Notes/
-- PowerPoint-Slides/
 - Resources/
 - Video-Images/
 

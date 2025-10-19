@@ -1,15 +1,9 @@
 # IDEAinstitute | Spring 2025 | Week 2: Opportunity Validation | 2.1 Video Notes
----
 
 # 🔗 Vimeo Video Link
----
-
 - [Watch the Week 2: Opportunity Validation Video](https://vimeo.com/822515619/5378dd18f6)
 
-
 # 🗺️ Entrepreneurial Process
----
-
 ## Search for Business Model
 1. Ideation
 2. Opportunity Validation
@@ -30,8 +24,6 @@
 
 
 # 📉 Common Pitfalls
----
-
 ### Settling for Hypotheses
 - Many founders stop searching and settle on a handful of personae that they believe will be into their solution. Hypothesizing a persona is the beginning and not the end of your journey.
 - <u>A persona is only a hypothesis that needs to be tested</u> before it can become the basis for an entire business.
@@ -56,10 +48,7 @@ The Lean Startup Method, developed by individuals such as Eric Reese and Steve B
 - Starting a business is not about taking risks. It about making small bets that de-risk the process
 
 
-
 # 🔍 Customer Discovery Data
----
-
 Customer Discovery have two categories:
 - Self Report Methods
 - Non-Self Report Methods
@@ -117,8 +106,6 @@ Without you exerting unnecessary time making mistakes that can be expensive and 
 
 
 # 🧠 Opportunity Validation Interviews
----
-
 **Opportunity Validation Interviews** are those that precede the development of a prototype. They should focus on the problem or job-to-be-done and avoid mention of a solution.
 
 <br/>
@@ -151,8 +138,6 @@ Regardless of where you are in the process, you must first have opportunity vali
 
 
 # 📝 Interview Protocol
----
-
 An **Interview Protocol** usually consists of a list of questions that you want to ask your potential customers. It ranges from 10 - 20 questions you bring to the interview so you can look down at and make you are tackling all the question that you have that will help validate the opportunity.
 
 <br/>
@@ -194,8 +179,6 @@ While your knowledge, and passion for a domain may motivate you without customer
 
 
 # 📋 Should I Use Surveys?
----
-
 - Close-ended instruments like surveys and polls <u>should not be used until you know what questions to ask</u> (i.e., after enough interviews).
     - One-on-One interviews are not replaceable.
     - A survey, even with open ended questions, is not going to give you the kind of unexpected information that you can get by asking follow-up questions.
@@ -207,8 +190,6 @@ While your knowledge, and passion for a domain may motivate you without customer
 
 
 # 🗣️ Quotes and Insights from The Idea Village Entrepreneurs
----
-
 ## Diego Pinzon, CEO and Founder - DAWn Audio
 ### Customer Conversation
 "People are willing to talk to you if you say you are working on this project. I just need 5 - 10 minutes of your time, and then I'm happy to talk more about what I'm actually doing."
@@ -243,8 +224,6 @@ While your knowledge, and passion for a domain may motivate you without customer
 
 
 # ⚠️ Important Advice
---- 
-
 ## 01
 Focus on trying to extract stories and narratives from the customers by asking open-ended questions. Open-ended questions are questions that ask somebody about their day, what the toughest part of their day is, and not yes or no questions.
 
@@ -253,8 +232,6 @@ Importantly, you should always start discovery process with interviews heavy on 
 
 
 # 🎯 Today's Takeaways
----
-
 ## 01
 Your persona is a hypothesis that needs to be tested initially through the use of one-on-one interviews that allow for unexpected insight.
 

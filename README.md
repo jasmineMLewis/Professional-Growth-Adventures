@@ -4,7 +4,6 @@ Welcome to my personal archive of **Professional Growth Adventures**—a living 
 
 This repository includes content from accelerators, fellowships, and other professional development programs that have shaped my evolution as a creative leader and systems thinker.
 
----
 
 ## What's Inside
 
@@ -12,7 +11,6 @@ This repository includes content from accelerators, fellowships, and other profe
 - **Public Resources** – Shared Zoom links, templates, and helpful links  
 - **Founder Perspective** – Lessons, pivots, and mindset shifts along the way
 
----
 
 ## Why I Created This
 
@@ -20,7 +18,6 @@ As the Founder and Chief Techartistry Officer of [IglooNation Tech™](https://w
 
 This space captures the learning that fuels my leadership—and the human side of building something bold.
 
----
 
 ## Programs Documented So Far
 
@@ -28,7 +25,6 @@ This space captures the learning that fuels my leadership—and the human side o
 
 More to come...
 
----
 
 ## About Me
 
@@ -39,7 +35,6 @@ Founder, Chief Executive Officer & Chief Techartistry Officer, IglooNation Tech�
 > **Tagline:** *Imagine Freely*  
 > **Quote:** *Vision Crafted. Human Centered.*
 
----
 
 ## Let’s Connect  
 - 🧊 IglooNation Tech™: [www.igloonationtech.com](https://www.igloonationtech.com)
@@ -47,4 +42,4 @@ Founder, Chief Executive Officer & Chief Techartistry Officer, IglooNation Tech�
 - 💼 LinkedIn: [linkedin.com/in/jasmine-m-lewis](https://www.linkedin.com/in/jasmine-m-lewis/)  
 - ✍🏽 Medium: [medium.com/@JasmineMLewis](https://medium.com/@JasmineMLewis)  
 - 💡 Dev Community: [dev.to/jasminemlewis](https://dev.to/jasminemlewis)  
-- 📧 Email: [jasmine.lewis@artistikrebellion.us](mailto:jasmine.lewis@artistikrebellion.us)
+- 📧 Email: [jasmine.lewis@igloonationtech.com](mailto:jasmine.lewis@igloonationtech.com)

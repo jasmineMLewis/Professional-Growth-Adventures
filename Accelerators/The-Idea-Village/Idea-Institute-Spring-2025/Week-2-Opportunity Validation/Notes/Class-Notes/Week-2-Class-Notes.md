@@ -1,9 +1,6 @@
 # IDEAinstitute | Spring 2025 | Week 2: Opportunity Validation | Class Notes
----
 
 # 🎤 Speaker - Alana Scott
----
-
 ## Company
 Kinkz Hair Products
 
@@ -28,8 +25,6 @@ Kinkz Hair Products
     - It can be solely speaking with investors, informing potential customers of product
 
 # 🌐 Domain Bracketing - Business
----
-
 ## Definition
 Domain Bracketing in business refers to the strategic practice of segmenting a company’s operations, knowledge, or services into clearly defined domains—such as marketing, finance, operations, or product development—and then creating boundaries or "brackets" around each to clarify scope, responsibilities, governance, and performance measurement. 
 
@@ -40,8 +35,6 @@ Domain Bracketing in business refers to the strategic practice of segmenting a c
 - Strategic Focus: Enables targeted decision-making within each bracket while maintaining alignment with enterprise-wide goals.
 
 # 💡 Customers Motivations
----
-
 - You are not ready to sell until you know what you're up against (competition)
 - You need to understand your customer motivations
 - How do people become aware of the problem?
@@ -49,8 +42,6 @@ Domain Bracketing in business refers to the strategic practice of segmenting a c
 - The purpose of splitting things out in your business, so you can ask in depth questions
 
 # 🧪 Prototype - Software
----
-
 - It is important that it intentionally crampy
     - You want customers to feel as if they are a part of the process
     - If they think it is polished, they are likely to make snarky comments
@@ -64,7 +55,5 @@ Domain Bracketing in business refers to the strategic practice of segmenting a c
 - It is better to have an unpolished product, get their feedback, and come back with improvements.
 
 # 🗺️ Customer Journey
----
-
 - Think of it as stops and flows.
 - As the founder, you are the plumber. If you are the person, only the technical side, then you need to find a co-founder on the business side.
